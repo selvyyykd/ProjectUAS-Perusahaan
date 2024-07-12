@@ -82,9 +82,9 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/features" class="nav-link">
+                <a href="/testimonials" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Data Features</p>
+                  <p>Data Testimonials</p>
                 </a>
               </li>
               <li class="nav-item">
@@ -94,21 +94,21 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/clients" class="nav-link">
+                <a href="/teams" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Data Clients</p>
+                  <p>Data Teams</p>
                 </a>
               </li>
             </ul>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="/about" class="nav-link">
               <i class="nav-icon fas fa-user"></i>
               <p>Tentang</p>
             </a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="/contact" class="nav-link">
               <i class="nav-icon fas fa-phone"></i>
               <p>Kontak</p>
             </a>

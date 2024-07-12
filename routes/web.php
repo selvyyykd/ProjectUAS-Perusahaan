@@ -5,8 +5,10 @@ use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ClientController;
 use App\Http\Controllers\PortofolioController;
+use App\Http\Controllers\TeamController;
 use App\Http\Controllers\SliderController;
 use App\Http\Controllers\ServiceController;
+use App\Http\Controllers\AboutController;
 use App\Http\Controllers\TestimonialController;
 use Illuminate\Support\Facades\Route;
 
@@ -36,3 +38,7 @@ Route::resource('services', ServiceController::class)->middleware('auth');
 Route::resource('testimonials', TestimonialController::class)->middleware('auth');
 Route::resource('portofolios', PortofolioController::class)->middleware('auth');
 Route::resource('clients', ClientController::class)->middleware('auth');
+Route::resource('teams', TeamController::class)->middleware('auth');
+
+Route::get('/about', [AboutController::class, 'index'])->middleware('auth');
+Route::put('/about/{id}', [AboutController::class, 'update'])->middleware('auth');

@@ -29,6 +29,7 @@
                     $i = 1
                 @endphp
                 @foreach ($clients as $client)
+            <tr>
                     <td>{{ $i++ }}</td>
                     <td>{{$client->title}}</td>
                     <td>{{$client->description}}</td>
@@ -43,6 +44,7 @@
                             @method('DELETE')
                             <button type="submit" class="btn btn-danger">Hapus</button>
                     </td>
+            </tr>
                 @endforeach 
             </tbody>
         </table>

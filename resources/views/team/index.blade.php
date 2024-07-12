@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'Data Slider')
+@section('title', 'Data Team')
 
 @section('content')
 
 <div class="container">
-    <a href="/sliders/create/" class="btn btn-primary mb-3">Tambah Data</a>
+    <a href="/teams/create/" class="btn btn-primary mb-3">Tambah Data</a>
 
     @if($message = Session::get('message'))
         <div class = "alert alert success">
@@ -28,18 +28,18 @@
                 @php
                     $i = 1
                 @endphp
-                @foreach ($sliders as $slider)
+                @foreach ($teams as $team)
             <tr>
                     <td>{{ $i++ }}</td>
-                    <td>{{$slider->title}}</td>
-                    <td>{{$slider->description}}</td>
+                    <td>{{$team->title}}</td>
+                    <td>{{$team->description}}</td>
                     <td>
-                        <img src="/image/{{$slider->image}}" alt="" class="img-fluid" width="90">
+                        <img src="/image/{{$team->image}}" alt="" class="img-fluid" width="90">
                     </td>
                     <td>
-                        <a href="{{ route('sliders.edit', $slider->id) }}" class="btn btn-warning">Edit</a>
+                        <a href="{{ route('teams.edit', $team->id) }}" class="btn btn-warning">Edit</a>
 
-                        <form action="{{ route('sliders.destroy', $slider->id) }}" method="POST">
+                        <form action="{{ route('teams.destroy', $team->id) }}" method="POST">
                             @csrf
                             @method('DELETE')
                             <button type="submit" class="btn btn-danger">Hapus</button>
