@@ -43,7 +43,7 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="services">Layanan Kami</a>
+            <a class="nav-link fw-bolder" href="service">Layanan Kami</a>
           </li>
           <li class="nav-item">
             <a class="nav-link fw-bolder" href="portofolio">Portofolio</a>
