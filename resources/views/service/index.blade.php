@@ -18,8 +18,8 @@
             <thead>
                 <tr>
                     <th class="text-center">No</th>
-                    <th class="text-center">Judul</th>
-                    <th class="text-center">Deskripsi</th>
+                    <th class="text-center">Tipe Rumah</th>
+                    <th class="text-center">Deskripsi Harga</th>
                     <th class="text-center">Gambar</th>
                     <th class="text-center">Aksi</th>
                 </tr>
