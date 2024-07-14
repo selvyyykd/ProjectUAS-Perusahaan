@@ -47,7 +47,7 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="services">Layanan Kami</a>
+            <a class="nav-link fw-bolder" href="service">Layanan Kami</a>
           </li>
           <li class="nav-item">
             <a class="nav-link fw-bolder" href="portofolio">Portofolio</a>
@@ -73,7 +73,7 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="assets/img/c3.jpg" class="d-block w-100 carousel-img" alt="..." />
+        <img src="assets/img/beranda22.jpg" class="d-block w-100 carousel-img" alt="..." />
         <div class="carousel-caption d-none d-md-block">
           <h5>RUMAH IMPIAN</h5>
           <p>Rumah impian hadir untuk temukan temukan rumah terbaik untukmu, untuk dijual ataupun di sewa 
