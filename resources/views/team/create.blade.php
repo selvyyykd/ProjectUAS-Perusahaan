@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Data Team')
+@section('title', 'Tim Kami')
 
 @section('content')
 
@@ -11,15 +11,15 @@
             <form action="{{ route('teams.store') }}" method="POST" enctype="multipart/form-data">
                 @csrf
                 <div class="form-group">
-                    <label for="">Judul</label>
-                    <input type="text" class="form-control" name="title" placeholder="Judul">
+                    <label for="">Nama</label>
+                    <input type="text" class="form-control" name="title" placeholder="Nama">
                 </div>
                 @error ('title')
                 <small style="color:red">{{$message}}</small>
                 @enderror
                 <div class="form-group">
-                    <label for="">Deskripsi</label>
-                    <textarea name="description" id="" cols="30" rows="10" class="form-control" placeholder="Deskripsi"></textarea>
+                    <label for="">Bagian</label>
+                    <textarea name="description" id="" cols="30" rows="10" class="form-control" placeholder="Bagian"></textarea>
                 </div>
                 @error ('description')
                 <small style="color:red">{{$message}}</small>

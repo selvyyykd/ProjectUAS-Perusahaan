@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Data Team')
+@section('title', 'Tim Kami')
 
 @section('content')
 
@@ -18,8 +18,8 @@
             <thead>
                 <tr>
                     <th>No</th>
-                    <th>Judul</th>
-                    <th>Deskripsi</th>
+                    <th>Nama</th>
+                    <th>Bagian</th>
                     <th>Gambar</th>
                     <th>Aksi</th>
                 </tr>

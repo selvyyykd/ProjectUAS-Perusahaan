@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Data Slider')
+@section('title', 'Tipe Rumah')
 
 @section('content')
 
@@ -12,8 +12,8 @@
                 @method('PUT')
                 @csrf
                 <div class="form-group">
-                    <label for="">Judul</label>
-                    <input type="text" class="form-control" name="title" placeholder="Judul" value="{{$slider->title}}">
+                    <label for="">Tipe</label>
+                    <input type="text" class="form-control" name="title" placeholder="Tipe rumah" value="{{$slider->title}}">
                 </div>
                 @error ('title')
                 <small style="color:red">{{$message}}</small>

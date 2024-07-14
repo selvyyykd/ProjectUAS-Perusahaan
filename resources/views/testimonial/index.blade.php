@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Data Testimonial')
+@section('title', 'Data Pembeli')
 
 @section('content')
 
@@ -18,8 +18,8 @@
             <thead>
                 <tr>
                     <th class="text-center">No</th>
-                    <th class="text-center">Judul</th>
-                    <th class="text-center">Deskripsi</th>
+                    <th class="text-center">Nama Pelanggan</th>
+                    <th class="text-center">Deskripsi dan Tipe Rumah</th>
                     <th class="text-center">Gambar</th>
                     <th class="text-center">Aksi</th>
                 </tr>

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Data Slider')
+@section('title', 'Tipe Rumah')
 
 @section('content')
 
@@ -18,7 +18,7 @@
             <thead>
                 <tr>
                     <th>No</th>
-                    <th>Judul</th>
+                    <th>Tipe</th>
                     <th>Deskripsi</th>
                     <th>Gambar</th>
                     <th>Aksi</th>
@@ -34,7 +34,9 @@
                     <td>{{$slider->title}}</td>
                     <td>{{$slider->description}}</td>
                     <td>
+                        <center>
                         <img src="/image/{{$slider->image}}" alt="" class="img-fluid" width="90">
+                        </center>
                     </td>
                     <td>
                         <a href="{{ route('sliders.edit', $slider->id) }}" class="btn btn-warning">Edit</a>

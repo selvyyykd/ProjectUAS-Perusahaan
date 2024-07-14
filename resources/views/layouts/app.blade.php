@@ -72,31 +72,25 @@
               <li class="nav-item">
                 <a href="/sliders" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Data Sliders</p>
+                  <p>Tipe Rumah</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="/services" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Data Services</p>
+                  <p>Data Harga</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="/testimonials" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Data Testimonials</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="/portofolios" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Data Portofolios</p>
+                  <p>Data Pembeli</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="/teams" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Data Teams</p>
+                  <p>Tim Kami</p>
                 </a>
               </li>
             </ul>
