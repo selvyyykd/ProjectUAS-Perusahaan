@@ -22,7 +22,7 @@
     <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-white shadow shadow-sm fixed-top fy-3">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="#"><span class="primary">COM</span>PANY</a>
+      <a class="navbar-brand fw-bold" href="#"><span class="primary">JualBeli </span>Rumah Impian</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -30,29 +30,29 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="index">Home</a>
+            <a class="nav-link fw-bolder" href="index">Beranda</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link fw-bolder dropdown-toggle active" href="#" id="navbarDropdownMenuLink" role="button"
+            <a class="nav-link fw-bolder dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
               data-bs-toggle="dropdown" aria-expanded="false">
-              About
+              Tentang
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="about">About Us</a></li>
-              <li><a class="dropdown-item" href="team">Team</a></li>
+              <li><a class="dropdown-item" href="about">Tentang</a></li>
+              <li><a class="dropdown-item" href="team">Tim</a></li>
               <li>
-                <a class="dropdown-item" href="testimonials">Testimonials</a>
+                <a class="dropdown-item" href="testimonials">Testimoni</a>
               </li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="services">Services</a>
+            <a class="nav-link fw-bolder" href="services">Layanan Kami</a>
           </li>
           <li class="nav-item">
             <a class="nav-link fw-bolder" href="portofolio">Portofolio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="contact">Contact</a>
+            <a class="nav-link fw-bolder active" href="contact">Kontak</a>
           </li>
         </ul>
       </div>
@@ -64,10 +64,10 @@
     <div class="breadcumbs py-2">
         <div class="container">
             <div class="d-flex justify-content-between align-items-center text-white">
-                <h2>Contact</h2>
+                <h2>Kontak</h2>
                 <ol class="d-flex list-unstyled">
-                    <li>Home</li>
-                    <li>Contact</li>
+                    <li>Beranda</li>
+                    <li>Kontak</li>
                 </ol>
             </div>
         </div>
@@ -91,7 +91,7 @@
 
                                     <div class="col-md-4">
                                         <i class="fa fa-map-marker-alt fa-2x primary float-start me-4"></i>
-                                        <h4 class="fw-bolder">Location</h4>
+                                        <h4 class="fw-bolder">Lokasi</h4>
                                         <p class="ms-5">Jl. Diponegoro No.22, Citarum, Kec. Bandung Wetan, Kota Bandung,
                                             Jawa
                                             Barat 40115</p>
@@ -103,7 +103,7 @@
                                     </div>
                                     <div class="col-md-4">
                                         <i class="fa fa-phone-alt fa-2x primary float-start me-3"></i>
-                                        <h4 class="fw-bolder">Phone</h4>
+                                        <h4 class="fw-bolder">Telepon</h4>
                                         <p class="ms-5">+62 22 456 7771</p>
                                     </div>
                                 </div>
@@ -155,9 +155,7 @@
                     <div class="col-md-3">
                         <h4 class="fw-bold">COMPANY</h2>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repeliat
-                                consequuntur magnam commodi voluptatem quas? Itaque quo obcaecati
-                                perspiciatis quaerat ullam!
+                          
                             </p>
                             <strong>Phone</strong> : <span>+628382223170 </span>
                             <br />
@@ -204,19 +202,19 @@
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Home
+                                        Beranda
                                     </a>
                                 </li>
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        About Us
+                                        Tentang
                                     </a>
                                 </li>
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Services
+                                        Layanan Kami
                                     </a>
                                 </li>
                                 <li class="list-item">
@@ -228,7 +226,7 @@
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Contact
+                                        Kontak
                                     </a>
                                 </li>
                             </ul>

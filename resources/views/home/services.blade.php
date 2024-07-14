@@ -22,7 +22,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow shadow-sm fixed-top fy-3">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="#"><span class="primary">COM</span>PANY</a>
+      <a class="navbar-brand fw-bold" href="#"><span class="primary">JualBeli </span>Rumah Impian</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -30,29 +30,29 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="index">Home</a>
+            <a class="nav-link fw-bolder" href="index">Beranda</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link fw-bolder dropdown-toggle active" href="#" id="navbarDropdownMenuLink" role="button"
+            <a class="nav-link fw-bolder dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
               data-bs-toggle="dropdown" aria-expanded="false">
-              About
+              Tentang
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="about">About Us</a></li>
-              <li><a class="dropdown-item" href="team">Team</a></li>
+              <li><a class="dropdown-item" href="about">Tentang</a></li>
+              <li><a class="dropdown-item" href="team">Tim</a></li>
               <li>
-                <a class="dropdown-item" href="testimonials">Testimonials</a>
+                <a class="dropdown-item" href="testimonials">Testimoni</a>
               </li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="services">Services</a>
+            <a class="nav-link fw-bolder active" href="services">Layanan Kami</a>
           </li>
           <li class="nav-item">
             <a class="nav-link fw-bolder" href="portofolio">Portofolio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="contact">Contact</a>
+            <a class="nav-link fw-bolder" href="contact">Kontak</a>
           </li>
         </ul>
       </div>
@@ -64,10 +64,10 @@
     <div class="breadcumbs py-2">
         <div class="container">
             <div class="d-flex justify-content-between align-items-center text-white">
-                <h2>Services</h2>
+                <h2>Layanan Kami</h2>
                 <ol class="d-flex list-unstyled">
-                    <li>Home</li>
-                    <li>Services</li>
+                    <li>Beranda</li>
+                    <li>Layanan Kami</li>
                 </ol>
             </div>
         </div>
@@ -78,100 +78,50 @@
     <div class="services bg-light py-5">
         <div class="container">
             <div class="title-container">
-                <h2 class="text-center fw-bold">SERVICES</h2>
+                <h2 class="text-center fw-bold">LAYANAN KAMI</h2>
             </div>
-            <p class="text-center mt-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem modi vero
-                voluptas ea molestias eum illo, ducimus eius quisquam repellendus accusamus rerum! Repeliendus enim
-                incidunt assumenda pariatur, quisquam evaniet numquam.</p>
+            <p class="text-center mt-4">Rumah impian hadir menjadi solusi bagi keluarga Anda.</p>
             <div class="row mt-5">
-                <div class="col-md-4">
-                    <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-                        <div class="card-body">
-                            <div class="card-icon">
-                                <i class="fa fa-book fa-lg fa-3x"></i>
-                            </div>
-                            <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-                            <p class="card-description mt-3">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                                nam vero, dolorem iusto eum voluptatibus?
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-                        <div class="card-body">
-                            <div class="card-icon">
-                                <i class="fa fa-book fa-lg fa-3x"></i>
-                            </div>
-                            <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-                            <p class="card-description mt-3">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                                nam vero, dolorem iusto eum voluptatibus?
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-                        <div class="card-body">
-                            <div class="card-icon">
-                                <i class="fa fa-book fa-lg fa-3x"></i>
-                            </div>
-                            <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-                            <p class="card-description mt-3">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                                nam vero, dolorem iusto eum voluptatibus?
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-                        <div class="card-body">
-                            <div class="card-icon">
-                                <i class="fa fa-book fa-lg fa-3x"></i>
-                            </div>
-                            <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-                            <p class="card-description mt-3">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                                nam vero, dolorem iusto eum voluptatibus?
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-                        <div class="card-body">
-                            <div class="card-icon">
-                                <i class="fa fa-book fa-lg fa-3x"></i>
-                            </div>
-                            <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-                            <p class="card-description mt-3">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                                nam vero, dolorem iusto eum voluptatibus?
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-                        <div class="card-body">
-                            <div class="card-icon">
-                                <i class="fa fa-book fa-lg fa-3x"></i>
-                            </div>
-                            <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-                            <p class="card-description mt-3">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                                nam vero, dolorem iusto eum voluptatibus?
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<div class="col-md-4">
+  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+    <div class="card-body">
+      <div class="card-icon">
+        <i class="fa fa-home fa-3x"></i>
+      </div>
+      <div class="card-title fw-bolder mt-4">Properti Baru</div>
+      <p class="card-description mt-3">
+        Ruman impian kini jadi kenyataan. Beli rumah baru dengan fasilitas terbaik dengan lingkungan yang nyaman.
+      </p>
     </div>
-    <!-- end services -->
+  </div>
+</div>
+<div class="col-md-4">
+  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+    <div class="card-body">
+      <div class="card-icon">
+        <i class="fas fa-hand-holding-heart fa-3x"></i>
+      </div>
+      <div class="card-title fw-bolder mt-4">Sewa Rumah</div>
+      <p class="card-description mt-3">
+        Sewa rumah yang indah untuk keluarga Anda, pilihan terbaik untuk tempat tinggal keluargamu.
+      </p>
+    </div>
+  </div>
+</div>
+<div class="col-md-4">
+  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+    <div class="card-body">
+      <div class="card-icon">
+        <i class="fas fa-money-bill-1-wave fa-3x"></i>
+      </div>
+      <div class="card-title fw-bolder mt-4">Beli Rumah</div>
+      <p class="card-description mt-3">
+        Beli rumah sempurna dengan harga terbaik kualitas terjamin dari sumber terpercaya.
+      </p>
+    </div>
+  </div>
+</div>
+<!-- end services -->
 
     <!-- features -->
     <div class="features mt-5 py-5">
@@ -293,9 +243,7 @@
                     <div class="col-md-3">
                         <h4 class="fw-bold">COMPANY</h2>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repeliat
-                                consequuntur magnam commodi voluptatem quas? Itaque quo obcaecati
-                                perspiciatis quaerat ullam!
+                        
                             </p>
                             <strong>Phone</strong> : <span>+628382223170 </span>
                             <br />

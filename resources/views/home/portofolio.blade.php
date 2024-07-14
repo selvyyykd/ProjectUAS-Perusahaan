@@ -22,7 +22,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow shadow-sm fixed-top fy-3">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="#"><span class="primary">COM</span>PANY</a>
+      <a class="navbar-brand fw-bold" href="#"><span class="primary">JualBeli </span>Rumah Impian</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -30,29 +30,29 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="index">Home</a>
+            <a class="nav-link fw-bolder" href="index">Beranda</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link fw-bolder dropdown-toggle active" href="#" id="navbarDropdownMenuLink" role="button"
+            <a class="nav-link fw-bolder dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
               data-bs-toggle="dropdown" aria-expanded="false">
-              About
+              Tentang
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="about">About Us</a></li>
-              <li><a class="dropdown-item" href="team">Team</a></li>
+              <li><a class="dropdown-item" href="about">Tentang</a></li>
+              <li><a class="dropdown-item" href="team">Tim</a></li>
               <li>
-                <a class="dropdown-item" href="testimonials">Testimonials</a>
+                <a class="dropdown-item" href="testimonials">Testimoni</a>
               </li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="services">Services</a>
+            <a class="nav-link fw-bolder" href="services">Layanan Kami</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="portofolio">Portofolio</a>
+            <a class="nav-link fw-bolder active" href="portofolio">Portofolio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="contact">Contact</a>
+            <a class="nav-link fw-bolder" href="contact">Kontak</a>
           </li>
         </ul>
       </div>
@@ -66,7 +66,7 @@
             <div class="d-flex justify-content-between align-items-center text-white">
                 <h2>Portofolio</h2>
                 <ol class="d-flex list-unstyled">
-                    <li>Home</li>
+                    <li>Beranda</li>
                     <li>Portofolio</li>
                 </ol>
             </div>
@@ -82,56 +82,50 @@
             </div>
             <div class="row mt-4">
                 <div class="col-md-12 d-flex justify-content-center">
-                    <ul class="list-unstyled d-flex portfolio-filters">
-                        <li data-filter="*" class="py-2 px-4 filter-active text-white">ALL</li>
-                        <li data-filter=".filter-web" class="py-2 px-4">Web</li>
-                        <li data-filter=".filter-design" class="py-2 px-4">Design</li>
-                        <li data-filter=".filter-photo" class="py-2 px-4">Photography</li>
+                    <ul class="list-unstyled d-flex portfolio-filters">                        
+                        <li data-filter=".filter-design" class="py-2 px-4">Design Rumah</li>
                     </ul>
                 </div>
             </div>
-            <p class="text-center mt-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem modi vero
-                voluptas ea molestias eum illo, ducimus eius quisquam repellendus accusamus rerum! Repeliendus enim
-                incidunt assumenda pariatur, quisquam evaniet numquam.</p>
             <div class="row mt-5">
                 <div class="col-md-12">
                     <div class="mansory portfolio-container">
                         <div class="mansory-sizer"></div>
                         <div class="mansory-item m-2 portfolio-item filter-web">
-                            <img src="assets/img/p1.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/dapur.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-design">
-                            <img src="assets/img/p2.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/taman.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-design">
-                            <img src="assets/img/p3.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/ruangtv.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-web">
-                            <img src="assets/img/p4.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/mushola.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-design">
-                            <img src="assets/img/p5.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/kmrmandi.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-photo">
-                            <img src="assets/img/p6.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/kmrtdr.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-web">
-                            <img src="assets/img/p7.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/kamar2.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-web">
-                            <img src="assets/img/p8.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/ruangbljr.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-photo">
-                            <img src="assets/img/p9.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/garasi.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-web">
-                            <img src="assets/img/p10.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/kolam.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-design">
-                            <img src="assets/img/p11.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/yoga.jpg" alt="" class="img-fluid" />
                         </div>
                         <div class="mansory-item m-2 portfolio-item filter-design">
-                            <img src="assets/img/p12.jpg" alt="" class="img-fluid" />
+                            <img src="assets/img/walkincloset.jpg" alt="" class="img-fluid" />
                         </div>
                     </div>
                 </div>
@@ -149,11 +143,9 @@
                     <div class="col-md-3">
                         <h4 class="fw-bold">COMPANY</h2>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repeliat
-                                consequuntur magnam commodi voluptatem quas? Itaque quo obcaecati
-                                perspiciatis quaerat ullam!
+                               
                             </p>
-                            <strong>Phone</strong> : <span>+628382223170 </span>
+                            <strong>Telepon</strong> : <span>+628382223170 </span>
                             <br />
                             <strong>Email</strong> : <span>info@company.org </span>
                     </div>

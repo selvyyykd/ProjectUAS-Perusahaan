@@ -22,7 +22,7 @@
   <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-white shadow shadow-sm fixed-top fy-3">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="#"><span class="primary">COM</span>PANY</a>
+      <a class="navbar-brand fw-bold" href="#"><span class="primary">JualBeli </span>Rumah Impian</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -30,29 +30,26 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="index">Home</a>
+            <a class="nav-link fw-bolder" href="index">Beranda</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link fw-bolder dropdown-toggle active" href="#" id="navbarDropdownMenuLink" role="button"
               data-bs-toggle="dropdown" aria-expanded="false">
-              About
+              Tentang
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="about">About Us</a></li>
-              <li><a class="dropdown-item" href="team">Team</a></li>
-              <li>
-                <a class="dropdown-item" href="testimonials">Testimonials</a>
-              </li>
+              <li><a class="dropdown-item" href="about">Tentang</a></li>
+              <li><a class="dropdown-item" href="team">Tim</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="services">Services</a>
+            <a class="nav-link fw-bolder" href="services">Layanan Kami</a>
           </li>
           <li class="nav-item">
             <a class="nav-link fw-bolder" href="portofolio">Portofolio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="contact">Contact</a>
+            <a class="nav-link fw-bolder" href="contact">Kontak</a>
           </li>
         </ul>
       </div>
@@ -64,10 +61,10 @@
   <div class="breadcumbs py-2">
     <div class="container">
       <div class="d-flex justify-content-between align-items-center text-white">
-        <h2>About</h2>
+        <h2>Tentang</h2>
         <ol class="d-flex list-unstyled">
-          <li>Home</li>
-          <li>About</li>
+          <li>Beranda</li>
+          <li>Tentang</li>
         </ol>
       </div>
     </div>
@@ -79,46 +76,47 @@
     <div class="row mt-5">
       <div class="col-md-6" data-aos="fade-right">
         <h3 class="fw-bold about-us-title">
-          Lorem ipsum dolor sit amet consectetur.
+          Visi dan Misi:
         </h3>
         <p class="fw-bolder mt-4 about-us-subtitle">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-          Quibusdam nobis illo eligendi sint commodi.
+        Visi kami adalah menjadi mitra terpercaya bagi setiap individu yang ingin memiliki atau 
+        menjual properti di Jakarta. Kami berkomitmen untuk memberikan layanan yang profesional, 
+        transparan, dan memenuhi harapan klien kami.
         </p>
       </div>
       <div class="col-md-6" data-aos="fade-left">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          Deserunt, minima non. Aliquid itaque quas libero totam consequatur
-          corporis quibusdam repellendus earum id atque cum veniam, delectus
-          eum odio? Animi, voluptatum!
+        Rumah Idaman Properties adalah perusahaan yang berfokus pada jasa jual beli properti, 
+        khususnya rumah dan apartemen di kawasan perkotaan Jakarta. Dengan pengalaman lebih dari 
+        10 tahun di industri ini, kami telah berhasil membantu ribuan klien dalam menemukan rumah 
+        impian mereka. Kami menawarkan berbagai pilihan properti dari hunian mewah hingga hunian yang 
+        terjangkau, yang sesuai dengan kebutuhan dan budget setiap pelanggan.
+        Layanan Kami:
         </p>
         <ul class="list-group list-group-flush">
           <li class="list-group-item">
             <i class="fa fa-check-double primary"></i>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-            laboriosam?
+            Kami menggunakan strategi pemasaran yang efektif untuk memastikan properti Anda dapat 
+            terjangkau oleh calon pembeli potensial.
           </li>
           <li class="list-group-item">
             <i class="fa fa-check-double primary"></i>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-            laboriosam?
+            Tim profesional kami memberikan penilaian yang akurat untuk properti Anda, sehingga Anda 
+            dapat memasarkan dengan harga yang tepat.
           </li>
           <li class="list-group-item">
             <i class="fa fa-check-double primary"></i>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-            laboriosam?
+            Kami bekerja sama dengan lembaga keuangan untuk menyediakan solusi pembiayaan 
+            yang sesuai dengan kebutuhan Anda.
           </li>
           <li class="list-group-item">
             <i class="fa fa-check-double primary"></i>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-            laboriosam?
+            Setelah transaksi selesai, kami tetap ada untuk memberikan layanan purna jual yang 
+            memuaskan.
           </li>
         </ul>
         <p class="mt-2">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-          quisquam facilis impedit. Commodi nesciunt culpa soluta esse
-          temporibus officia veritatis incidunt error porro
+          
         </p>
       </div>
     </div>
@@ -129,44 +127,42 @@
   <div class="teams bg-light mt-5 py-5">
     <div class="container">
       <div class="title-container ">
-        <h2 class="text-center fw-bold ">OUR TEAM</h2>
+        <h2 class="text-center fw-bold ">Tim Kami</h2>
       </div>
-      <p class="text-center ">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem modi vero voluptas ea
-        molestias eum illo, ducimus eius quisquam repellendus accusamus rerum! Repeliendus enim incidunt assumenda
-        pariatur, quisquam evaniet numquam.</p>
+      <p class="text-center "> </p>
       <div class="row">
         <div class="col-md-3" data-aos="fade-up">
           <div class="card" style="width: 18rem;">
-            <img src="assets/img/t1.jpg" class="card-img-top" alt="...">
+            <img src="assets/img/selvy.jpg" class="card-img-top" alt="...">
             <div class="card-body text-center">
-              <h5 class="card-title text-bold">Jhon Doe</h5>
+              <h5 class="card-title text-bold">Selvy Kirana</h5>
               <p class="card-text text-muted">Chief Executive Officer</p>
             </div>
           </div>
         </div>
         <div class="col-md-3" data-aos="fade-up">
           <div class="card" style="width: 18rem;">
-            <img src="assets/img/t2.jpg" class="card-img-top" alt="...">
+            <img src="assets/img/zahro.jpg" class="card-img-top" alt="...">
             <div class="card-body text-center">
-              <h5 class="card-title text-bold">Jhon Doe</h5>
+              <h5 class="card-title text-bold">Nurzahro Nazwa</h5>
               <p class="card-text text-muted">Chief Executive Officer</p>
             </div>
           </div>
         </div>
         <div class="col-md-3" data-aos="fade-up">
           <div class="card" style="width: 18rem;">
-            <img src="assets/img/t3.jpg" class="card-img-top" alt="...">
+            <img src="assets/img/zahra.jpg" class="card-img-top" alt="...">
             <div class="card-body text-center">
-              <h5 class="card-title text-bold">Jhon Doe</h5>
+              <h5 class="card-title text-bold">Zahra Putriana</h5>
               <p class="card-text text-muted">Chief Executive Officer</p>
             </div>
           </div>
         </div>
         <div class="col-md-3" data-aos="fade-up">
           <div class="card" style="width: 18rem;">
-            <img src="assets/img/t4.jpg" class="card-img-top" alt="...">
+            <img src="assets/img/revi.jpg" class="card-img-top" alt="...">
             <div class="card-body text-center">
-              <h5 class="card-title text-bold">Jhon Doe</h5>
+              <h5 class="card-title text-bold">Revi Raya</h5>
               <p class="card-text text-muted">Chief Executive Officer</p>
             </div>
           </div>
@@ -180,12 +176,9 @@
   <div class="clients mt-5">
     <div class="container">
       <div class="title-container">
-        <h2 class="text-center fw-bold">CLIENTS</h2>
+        <h2 class="text-center fw-bold">KLIEN</h2>
       </div>
       <div class="row mt-5">
-        <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
-          <img src="assets/img/b1.svg" class="img-fluid brand-image" alt="" />
-        </div>
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
           <img src="assets/img/b2.svg" class="img-fluid brand-image" alt="" />
         </div>
@@ -200,9 +193,6 @@
         </div>
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
           <img src="assets/img/b6.svg" class="img-fluid brand-image" alt="" />
-        </div>
-        <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
-          <img src="assets/img/b7.svg" class="img-fluid brand-image" alt="" />
         </div>
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
           <img src="assets/img/b8.svg" class="img-fluid brand-image" alt="" />
@@ -221,11 +211,9 @@
           <div class="col-md-3">
             <h4 class="fw-bold">COMPANY</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repeliat
-                consequuntur magnam commodi voluptatem quas? Itaque quo obcaecati
-                perspiciatis quaerat ullam!
+              
               </p>
-              <strong>Phone</strong> : <span>+628382223170 </span>
+              <strong>Telepon</strong> : <span>+628382223170 </span>
               <br />
               <strong>Email</strong> : <span>info@company.org </span>
           </div>
@@ -270,19 +258,19 @@
                 <li class="list-item">
                   <a href="" class="text-decoration-none text-white">
                     <i class="fa fa-chevron-right primary"></i>
-                    Home
+                    Beranda
                   </a>
                 </li>
                 <li class="list-item">
                   <a href="" class="text-decoration-none text-white">
                     <i class="fa fa-chevron-right primary"></i>
-                    About Us
+                    Pelayanan Kami
                   </a>
                 </li>
                 <li class="list-item">
                   <a href="" class="text-decoration-none text-white">
                     <i class="fa fa-chevron-right primary"></i>
-                    Services
+                    Layanan Kami
                   </a>
                 </li>
                 <li class="list-item">
@@ -294,7 +282,7 @@
                 <li class="list-item">
                   <a href="" class="text-decoration-none text-white">
                     <i class="fa fa-chevron-right primary"></i>
-                    Contact
+                    Kontak
                   </a>
                 </li>
               </ul>

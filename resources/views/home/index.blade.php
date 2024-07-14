@@ -24,7 +24,7 @@
   <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-white shadow shadow-sm fixed-top fy-3">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="#"><span class="primary">COM</span>PANY</a>
+      <a class="navbar-brand fw-bold" href="#"><span class="primary">JualBeli </span>Rumah Impian</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -32,29 +32,29 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="index">Home</a>
+            <a class="nav-link fw-bolder active" href="index">Beranda</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link fw-bolder dropdown-toggle active" href="#" id="navbarDropdownMenuLink" role="button"
+            <a class="nav-link fw-bolder dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
               data-bs-toggle="dropdown" aria-expanded="false">
-              About
+              Tentang
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="about">About Us</a></li>
-              <li><a class="dropdown-item" href="team">Team</a></li>
+              <li><a class="dropdown-item" href="about">Tentang</a></li>
+              <li><a class="dropdown-item" href="team">Tim</a></li>
               <li>
-                <a class="dropdown-item" href="testimonials">Testimonials</a>
+                <a class="dropdown-item" href="testimonials">Testimoni</a>
               </li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="services">Services</a>
+            <a class="nav-link fw-bolder" href="services">Layanan Kami</a>
           </li>
           <li class="nav-item">
             <a class="nav-link fw-bolder" href="portofolio">Portofolio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="contact">Contact</a>
+            <a class="nav-link fw-bolder" href="contact">Kontak</a>
           </li>
         </ul>
       </div>
@@ -74,41 +74,14 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="assets/img/c1.jpg" class="d-block w-100 carousel-img" alt="..." />
-        <div class="carousel-caption d-none d-md-block">
-          <h5>First slide label</h5>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-            ipsum provident excepturi minima molestias repudiandae, assumenda
-            delectus tempora consectetur explicabo quod! Quaerat veritatis
-            inventore ullam veniam officiis consectetur illo dicta!
-          </p>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="assets/img/c2.jpg" class="d-block w-100 carousel-img" alt="..." />
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Second slide label</h5>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-            ipsum provident excepturi minima molestias repudiandae, assumenda
-            delectus tempora consectetur explicabo quod! Quaerat veritatis
-            inventore ullam veniam officiis consectetur illo dicta!
-          </p>
-        </div>
-      </div>
-      <div class="carousel-item">
         <img src="assets/img/c3.jpg" class="d-block w-100 carousel-img" alt="..." />
         <div class="carousel-caption d-none d-md-block">
-          <h5>Third slide label</h5>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-            ipsum provident excepturi minima molestias repudiandae, assumenda
-            delectus tempora consectetur explicabo quod! Quaerat veritatis
-            inventore ullam veniam officiis consectetur illo dicta!
+          <h5>RUMAH IMPIAN</h5>
+          <p>Rumah impian hadir untuk temukan temukan rumah terbaik untukmu, untuk dijual ataupun di sewa 
+            dengan sumber yang terpercaya.
           </p>
         </div>
       </div>
-    </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
@@ -124,7 +97,7 @@
   <div class="about-us mt-5">
     <div class="container">
       <div class="title-container text-center ">
-        <h2 class="fw-bold">ABOUT US</h2>
+        <h2 class="fw-bold">TENTANG</h2>
       </div>
       <div class="row mt-5">
         <div class="col-md-6" data-aos="fade-right">
@@ -180,115 +153,65 @@
   <div class="services mt-5 bg-light py-5">
     <div class="container">
       <div class="title-container text-center">
-        <h2 class="fw-bold">SERVICES</h2>
+        <h2 class="fw-bold">LAYANAN KAMI</h2>
       </div>
       <p class="text-center mt-4">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus,
-        aliquam.
+        Rumah impian hadir menjadi solusi bagi keluarga Anda.
       </p>
       <div class="row mt-5">
-        <div class="col-md-4">
-          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-            <div class="card-body">
-              <div class="card-icon">
-                <i class="fa fa-book fa-lg fa-3x"></i>
-              </div>
-              <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-              <p class="card-description mt-3">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                nam vero, dolorem iusto eum voluptatibus?
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-            <div class="card-body">
-              <div class="card-icon">
-                <i class="fa fa-book fa-lg fa-3x"></i>
-              </div>
-              <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-              <p class="card-description mt-3">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                nam vero, dolorem iusto eum voluptatibus?
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-            <div class="card-body">
-              <div class="card-icon">
-                <i class="fa fa-book fa-lg fa-3x"></i>
-              </div>
-              <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-              <p class="card-description mt-3">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                nam vero, dolorem iusto eum voluptatibus?
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-            <div class="card-body">
-              <div class="card-icon">
-                <i class="fa fa-book fa-lg fa-3x"></i>
-              </div>
-              <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-              <p class="card-description mt-3">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                nam vero, dolorem iusto eum voluptatibus?
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-            <div class="card-body">
-              <div class="card-icon">
-                <i class="fa fa-book fa-lg fa-3x"></i>
-              </div>
-              <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-              <p class="card-description mt-3">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                nam vero, dolorem iusto eum voluptatibus?
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-            <div class="card-body">
-              <div class="card-icon">
-                <i class="fa fa-book fa-lg fa-3x"></i>
-              </div>
-              <div class="card-title fw-bolder mt-4">Lorem Ipsum</div>
-              <p class="card-description mt-3">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-                nam vero, dolorem iusto eum voluptatibus?
-              </p>
-            </div>
-          </div>
-        </div>
+<div class="col-md-4">
+  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+    <div class="card-body">
+      <div class="card-icon">
+        <i class="fa fa-home fa-3x"></i>
       </div>
+      <div class="card-title fw-bolder mt-4">Properti Baru</div>
+      <p class="card-description mt-3">
+        Ruman impian kini jadi kenyataan. Beli rumah baru dengan fasilitas terbaik dengan lingkungan yang nyaman.
+      </p>
     </div>
   </div>
+</div>
+
+<div class="col-md-4">
+  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+    <div class="card-body">
+      <div class="card-icon">
+        <i class="fas fa-hand-holding-heart fa-3x"></i>
+      </div>
+      <div class="card-title fw-bolder mt-4">Sewa Rumah</div>
+      <p class="card-description mt-3">
+        Sewa rumah yang indah untuk keluarga Anda, pilihan terbaik untuk tempat tinggal keluargamu.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="col-md-4">
+  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+    <div class="card-body">
+      <div class="card-icon">
+        <i class="fas fa-money-bill-1-wave fa-3x"></i>
+      </div>
+      <div class="card-title fw-bolder mt-4">Beli Rumah</div>
+      <p class="card-description mt-3">
+        Beli rumah sempurna dengan harga terbaik kualitas terjamin dari sumber terpercaya.
+      </p>
+    </div>
+  </div>
+</div>
   <!-- end services -->
 
   <!-- portfolio us -->
   <div class="portfolio-us mt-5">
     <div class="container">
       <div class="title-container">
-        <h2 class="text-center fw-bold">Portofolio</h2>
+        <h2 class="text-center fw-bold">PORTOFOLIO</h2>
       </div>
       <div class="row mt-4">
         <div class="col-md-12 d-flex justify-content-center">
           <ul class="list-unstyled d-flex portfolio-filters">
-            <li data-filter="*" class="py-2 px-4 filter-active text-white">ALL</li>
-            <li data-filter=".filter-web" class="py-2 px-4">Web</li>
-            <li data-filter=".filter-design" class="py-2 px-4">Design</li>
-            <li data-filter=".filter-photo" class="py-2 px-4">Photography</li>
+            <li data-filter=".filter-design" class="py-2 px-4">Design Rumah</li>
           </ul>
         </div>
       </div>
@@ -297,40 +220,40 @@
           <div class="mansory portfolio-container">
             <div class="mansory-sizer"></div>
             <div class="mansory-item m-2 portfolio-item filter-web">
-              <img src="assets/img/p1.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/dapur.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-design">
-              <img src="assets/img/p2.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/taman.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-design">
-              <img src="assets/img/p3.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/ruangtv.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-web">
-              <img src="assets/img/p4.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/mushola.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-design">
-              <img src="assets/img/p5.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/kmrmandi.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-photo">
-              <img src="assets/img/p6.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/kmrtdr.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-web">
-              <img src="assets/img/p7.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/kamar2.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-web">
-              <img src="assets/img/p8.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/ruangbljr.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-photo">
-              <img src="assets/img/p9.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/garasi.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-web">
-              <img src="assets/img/p10.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/kolam.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-design">
-              <img src="assets/img/p11.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/walkincloset.jpg" alt="" class="img-fluid" />
             </div>
             <div class="mansory-item m-2 portfolio-item filter-design">
-              <img src="assets/img/p12.jpg" alt="" class="img-fluid" />
+              <img src="assets/img/yoga.jpg" alt="" class="img-fluid" />
             </div>
           </div>
         </div>
@@ -347,9 +270,6 @@
       </div>
       <div class="row mt-5">
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
-          <img src="assets/img/b1.svg" class="img-fluid brand-image" alt="" />
-        </div>
-        <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
           <img src="assets/img/b2.svg" class="img-fluid brand-image" alt="" />
         </div>
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
@@ -363,9 +283,6 @@
         </div>
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
           <img src="assets/img/b6.svg" class="img-fluid brand-image" alt="" />
-        </div>
-        <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
-          <img src="assets/img/b7.svg" class="img-fluid brand-image" alt="" />
         </div>
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
           <img src="assets/img/b8.svg" class="img-fluid brand-image" alt="" />
@@ -384,11 +301,9 @@
           <div class="col-md-3">
             <h4 class="fw-bold">COMPANY</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repeliat
-                consequuntur magnam commodi voluptatem quas? Itaque quo obcaecati
-                perspiciatis quaerat ullam!
+              
               </p>
-              <strong>Phone</strong> : <span>+628382223170 </span>
+              <strong>Telepon</strong> : <span>+628382223170 </span>
               <br />
               <strong>Email</strong> : <span>info@company.org </span>
           </div>
@@ -433,19 +348,19 @@
                 <li class="list-item">
                   <a href="" class="text-decoration-none text-white">
                     <i class="fa fa-chevron-right primary"></i>
-                    Home
+                    Beranda
                   </a>
                 </li>
                 <li class="list-item">
                   <a href="" class="text-decoration-none text-white">
                     <i class="fa fa-chevron-right primary"></i>
-                    About Us
+                    Tentang
                   </a>
                 </li>
                 <li class="list-item">
                   <a href="" class="text-decoration-none text-white">
                     <i class="fa fa-chevron-right primary"></i>
-                    Services
+                    Layanan Kami
                   </a>
                 </li>
                 <li class="list-item">
@@ -457,7 +372,7 @@
                 <li class="list-item">
                   <a href="" class="text-decoration-none text-white">
                     <i class="fa fa-chevron-right primary"></i>
-                    Contact
+                    Kontak
                   </a>
                 </li>
               </ul>
@@ -515,9 +430,7 @@
   <!-- end footer  -->
 
   <!-- to top -->
-  <a href="#" class="btn-to-top p-3">
-    <i class="fa fa-chevron-up"></i>
-  </a>
+
   <!-- end to top -->
 
   <script src="assets/vendor/jquery/jquery-3.6.0.min.js"></script>

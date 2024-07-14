@@ -34,11 +34,11 @@ Route::get('/dashboard', [DashboardController::class, 'index'])->middleware('aut
 Route::resource('sliders', SliderController::class)->middleware('auth');
 
 //
-Route::resource('services', ServiceController::class)->middleware('auth');
+Route::resource('service', ServiceController::class)->middleware('auth');
 Route::resource('testimonials', TestimonialController::class)->middleware('auth');
 Route::resource('portofolios', PortofolioController::class)->middleware('auth');
 Route::resource('clients', ClientController::class)->middleware('auth');
 Route::resource('teams', TeamController::class)->middleware('auth');
 
-Route::get('/about', [AboutController::class, 'index'])->middleware('auth');
+Route::get('/abouts', [AboutController::class, 'index'])->middleware('auth');
 Route::put('/about/{id}', [AboutController::class, 'update'])->middleware('auth');
