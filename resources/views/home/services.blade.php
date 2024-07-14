@@ -109,130 +109,19 @@
   </div>
 </div>
 <div class="col-md-4">
-  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-    <div class="card-body">
-      <div class="card-icon">
-        <i class="fas fa-money-bill-1-wave fa-3x"></i>
-      </div>
-      <div class="card-title fw-bolder mt-4">Beli Rumah</div>
-      <p class="card-description mt-3">
-        Beli rumah sempurna dengan harga terbaik kualitas terjamin dari sumber terpercaya.
-      </p>
-    </div>
-  </div>
-</div>
-<!-- end services -->
-
-    <!-- features -->
-    <div class="features mt-5 py-5">
-        <div class="container">
-            <div class="title-container">
-                <h2 class="text-center fw-bold">FEATURES</h2>
+          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+            <div class="card-body">
+              <div class="card-icon">
+                <i class="fa fa-comments-dollar fa-3x"></i>
+              </div>
+              <div class="card-title fw-bolder mt-4">Beli Rumah</div>
+              <p class="card-description mt-3">
+                Beli rumah sempurna dengan harga terbaik kualitas terjamin dari sumber terpercaya.
+              </p>
             </div>
-            <p class="text-center mt-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem modi vero
-                voluptas ea molestias eum illo, ducimus eius quisquam repellendus accusamus rerum! Repeliendus enim
-                incidunt assumenda pariatur, quisquam evaniet numquam.</p>
-            <div class="row mt-5">
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card border-0 p-4 mt-3 shadow shadow-sm" data-aos="zoom-in">
-                        <div class="card-body d-flex justify-content-around">
-                            <i class="fa fa-book fa-lg fa-2x"></i>
-                            <h2 class="fs-5">Lorem Ipsum</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          </div>
         </div>
-    </div>
-    <!-- end features -->
+<!-- end services -->
 
     <!-- footer -->
     <footer>

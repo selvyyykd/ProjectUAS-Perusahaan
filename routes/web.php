@@ -33,7 +33,7 @@ Route::get('/dashboard', [DashboardController::class, 'index'])->middleware('aut
 //
 Route::resource('sliders', SliderController::class)->middleware('auth');
 
-//
+//crud
 Route::resource('service', ServiceController::class)->middleware('auth');
 Route::resource('testimonials', TestimonialController::class)->middleware('auth');
 Route::resource('portofolios', PortofolioController::class)->middleware('auth');

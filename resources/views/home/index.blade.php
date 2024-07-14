@@ -12,6 +12,8 @@
   <link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
   <!-- fontawesome -->
   <link rel="stylesheet" href="assets/vendor/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="/path/to/fontawesome/all.min.css">
   <!-- aos -->
   <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
   <!-- custom css -->
@@ -42,9 +44,6 @@
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <li><a class="dropdown-item" href="about">Tentang</a></li>
               <li><a class="dropdown-item" href="team">Tim</a></li>
-              <li>
-                <a class="dropdown-item" href="testimonials">Testimoni</a>
-              </li>
             </ul>
           </li>
           <li class="nav-item">
@@ -102,46 +101,46 @@
       <div class="row mt-5">
         <div class="col-md-6" data-aos="fade-right">
           <h3 class="fw-bold about-us-title">
-            Lorem ipsum dolor sit amet consectetur.
+            Visi dan Misi:
           </h3>
           <p class="fw-bolder mt-4 about-us-subtitle">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Quibusdam nobis illo eligendi sint commodi.
+            Visi kami adalah menjadi mitra terpercaya bagi setiap individu yang ingin memiliki atau 
+            menjual properti di Jakarta. Kami berkomitmen untuk memberikan layanan yang profesional, 
+            transparan, dan memenuhi harapan klien kami.
           </p>
         </div>
         <div class="col-md-6" data-aos="fade-left">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Deserunt, minima non. Aliquid itaque quas libero totam consequatur
-            corporis quibusdam repellendus earum id atque cum veniam, delectus
-            eum odio? Animi, voluptatum!
+            Rumah Idaman Properties adalah perusahaan yang berfokus pada jasa jual beli properti, 
+            khususnya rumah dan apartemen di kawasan perkotaan Jakarta. Dengan pengalaman lebih dari 
+            10 tahun di industri ini, kami telah berhasil membantu ribuan klien dalam menemukan rumah 
+            impian mereka. Kami menawarkan berbagai pilihan properti dari hunian mewah hingga hunian yang 
+            terjangkau, yang sesuai dengan kebutuhan dan budget setiap pelanggan.
+            Layanan Kami:
           </p>
           <ul class="list-group list-group-flush">
             <li class="list-group-item">
               <i class="fa fa-check-double primary"></i>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              laboriosam?
+              Kami menggunakan strategi pemasaran yang efektif untuk memastikan properti Anda dapat 
+              terjangkau oleh calon pembeli potensial.
             </li>
             <li class="list-group-item">
               <i class="fa fa-check-double primary"></i>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              laboriosam?
+              Tim profesional kami memberikan penilaian yang akurat untuk properti Anda, sehingga Anda 
+              dapat memasarkan dengan harga yang tepat.
             </li>
             <li class="list-group-item">
               <i class="fa fa-check-double primary"></i>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              laboriosam?
+              Kami bekerja sama dengan lembaga keuangan untuk menyediakan solusi pembiayaan 
+              yang sesuai dengan kebutuhan Anda.
             </li>
             <li class="list-group-item">
               <i class="fa fa-check-double primary"></i>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              laboriosam?
+              Setelah transaksi selesai, kami tetap ada untuk memberikan layanan purna jual yang 
+              memuaskan.
             </li>
           </ul>
           <p class="mt-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-            quisquam facilis impedit. Commodi nesciunt culpa soluta esse
-            temporibus officia veritatis incidunt error porro
           </p>
         </div>
       </div>
@@ -159,47 +158,47 @@
         Rumah impian hadir menjadi solusi bagi keluarga Anda.
       </p>
       <div class="row mt-5">
-<div class="col-md-4">
-  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-    <div class="card-body">
-      <div class="card-icon">
-        <i class="fa fa-home fa-3x"></i>
-      </div>
-      <div class="card-title fw-bolder mt-4">Properti Baru</div>
-      <p class="card-description mt-3">
-        Ruman impian kini jadi kenyataan. Beli rumah baru dengan fasilitas terbaik dengan lingkungan yang nyaman.
-      </p>
-    </div>
-  </div>
-</div>
+        <div class="col-md-4">
+          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+            <div class="card-body">
+              <div class="card-icon">
+                <i class="fa fa-home fa-3x"></i>
+              </div>
+              <div class="card-title fw-bolder mt-4">Properti Baru</div>
+              <p class="card-description mt-3">
+                Ruman impian kini jadi kenyataan. Beli rumah baru dengan fasilitas terbaik dengan lingkungan yang nyaman.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+            <div class="card-body">
+              <div class="card-icon">
+                <i class="fas fa-hand-holding-heart fa-3x"></i>
+              </div>
+              <div class="card-title fw-bolder mt-4">Sewa Rumah</div>
+              <p class="card-description mt-3">
+                Sewa rumah yang indah untuk keluarga Anda, pilihan terbaik untuk tempat tinggal keluargamu.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
+            <div class="card-body">
+              <div class="card-icon">
+                <i class="fa fa-comments-dollar fa-3x"></i>
+              </div>
+              <div class="card-title fw-bolder mt-4">Beli Rumah</div>
+              <p class="card-description mt-3">
+                Beli rumah sempurna dengan harga terbaik kualitas terjamin dari sumber terpercaya.
+              </p>
+            </div>
+          </div>
+        </div>
 
-<div class="col-md-4">
-  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-    <div class="card-body">
-      <div class="card-icon">
-        <i class="fas fa-hand-holding-heart fa-3x"></i>
-      </div>
-      <div class="card-title fw-bolder mt-4">Sewa Rumah</div>
-      <p class="card-description mt-3">
-        Sewa rumah yang indah untuk keluarga Anda, pilihan terbaik untuk tempat tinggal keluargamu.
-      </p>
-    </div>
-  </div>
-</div>
 
-<div class="col-md-4">
-  <div class="card border-0 text-center p-4 mt-3" data-aos="zoom-in">
-    <div class="card-body">
-      <div class="card-icon">
-        <i class="fas fa-money-bill-1-wave fa-3x"></i>
-      </div>
-      <div class="card-title fw-bolder mt-4">Beli Rumah</div>
-      <p class="card-description mt-3">
-        Beli rumah sempurna dengan harga terbaik kualitas terjamin dari sumber terpercaya.
-      </p>
-    </div>
-  </div>
-</div>
   <!-- end services -->
 
   <!-- portfolio us -->
