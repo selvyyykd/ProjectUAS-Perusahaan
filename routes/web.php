@@ -7,6 +7,7 @@ use App\Http\Controllers\ClientController;
 use App\Http\Controllers\PortofolioController;
 use App\Http\Controllers\TeamController;
 use App\Http\Controllers\SliderController;
+use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ServiceController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\TestimonialController;
@@ -42,3 +43,5 @@ Route::resource('teams', TeamController::class)->middleware('auth');
 
 Route::get('/contact', [ContactController::class, 'index'])->middleware('auth');
 Route::put('/contact/{id}', [ContactController::class, 'update'])->middleware('auth');
+
+Route::get('/about', [AboutController::class, 'index'])->middleware('auth');

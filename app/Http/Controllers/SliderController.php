@@ -97,7 +97,7 @@ class SliderController extends Controller
         }
 
         $slider->update($input);
-
+            
         return redirect('/sliders')->with('message', 'Data berhasil diedit');
     }
 
