@@ -40,9 +40,6 @@
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <li><a class="dropdown-item" href="about">Tentang</a></li>
               <li><a class="dropdown-item" href="team">Tim</a></li>
-              <li>
-                <a class="dropdown-item" href="testimonials">Testimoni</a>
-              </li>
             </ul>
           </li>
           <li class="nav-item">

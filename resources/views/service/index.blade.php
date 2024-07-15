@@ -5,14 +5,14 @@
 @section('content')
 
 <div class="container ">
-    <a href="/services/create/" class="btn btn-primary mb-3"> Tambah Data</a>
+    <a href="/admin/services/create/" class="btn btn-primary mb-3"> Tambah Data</a>
 
     @if($message = Session::get('message'))
         <div class = "alert alert bg-success">
         <strong>Berhasil</strong>
         <p>{{$message}}</p>
         </div>
-    @endif 
+    @endif
     <div class="table-responsive">
         <table class="table table-bordered table-hover table-striped ">
             <thead>

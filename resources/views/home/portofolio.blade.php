@@ -30,30 +30,28 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="index">Beranda</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link fw-bolder dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-              data-bs-toggle="dropdown" aria-expanded="false">
-              Tentang
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="about">Tentang</a></li>
-              <li><a class="dropdown-item" href="team">Tim</a></li>
-              <li>
-                <a class="dropdown-item" href="testimonials">Testimoni</a>
-              </li>
-            </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link fw-bolder" href="service">Layanan Kami</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link fw-bolder active" href="portofolio">Portofolio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link fw-bolder" href="contact">Kontak</a>
-          </li>
+    <a class="nav-link fw-bolder" href="{{ url('index') }}">Beranda</a>
+</li>
+<li class="nav-item dropdown">
+    <a class="nav-link fw-bolder dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+        data-bs-toggle="dropdown" aria-expanded="false">
+        Tentang
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+        <li><a class="dropdown-item" href="{{ url('about') }}">Tentang</a></li>
+        <li><a class="dropdown-item" href="{{ url('team') }}">Tim</a></li>
+    </ul>
+</li>
+<li class="nav-item">
+    <a class="nav-link fw-bolder" href="{{ url('service') }}">Layanan Kami</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link fw-bolder active" href="{{ url('portofolio') }}">Portofolio</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link fw-bolder" href="{{ url('contact') }}">Kontak</a>
+</li>
+
         </ul>
       </div>
     </div>

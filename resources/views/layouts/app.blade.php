@@ -52,7 +52,7 @@
       <nav class="mt-2">
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <li class="nav-item">
-            <a href="/dashboard" class="nav-l ink">
+            <a href="/admin/dashboard" class="nav-l ink">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>Dashboard</p>
             </a>
@@ -70,25 +70,25 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="/sliders" class="nav-link">
+                <a href="/admin/sliders" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Tipe Rumah</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/services" class="nav-link">
+                <a href="/admin/services" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Data Harga</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/testimonials" class="nav-link">
+                <a href="/admin/testimonials" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Data Pembeli</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/teams" class="nav-link">
+                <a href="/admin/teams" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Tim Kami</p>
                 </a>
@@ -96,7 +96,7 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a href="/about" class="nav-link">
+            <a href="/admin/about" class="nav-link">
               <i class="nav-icon fas fa-user"></i>
               <p>Tentang</p>
             </a>
