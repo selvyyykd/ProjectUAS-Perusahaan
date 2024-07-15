@@ -23,6 +23,7 @@ class HomeController extends Controller
 
     public function portofolio()
     {
+        //test
         return view('home.portofolio');
     }
 
