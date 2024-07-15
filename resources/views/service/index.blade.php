@@ -12,7 +12,7 @@
         <strong>Berhasil</strong>
         <p>{{$message}}</p>
         </div>
-    @endif
+    @endif 
     <div class="table-responsive">
         <table class="table table-bordered table-hover table-striped ">
             <thead>

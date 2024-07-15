@@ -94,7 +94,7 @@
             <img src="assets/img/zahro.jpg" class="card-img-top" alt="...">
             <div class="card-body text-center">
               <h5 class="card-title text-bold">Nurzahro Nazwa</h5>
-              <p class="card-text text-muted">Chief Executive Officer</p>
+              <p class="card-text text-muted"> </p>
             </div>
           </div>
         </div>

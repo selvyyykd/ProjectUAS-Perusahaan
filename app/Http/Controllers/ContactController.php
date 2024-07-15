@@ -10,6 +10,4 @@ class ContactController extends Controller
     {
         return view('home.contact'); 
     }
-
-    // Metode lainnya sesuai kebutuhan Anda, misalnya untuk mengirim email, menangani form kontak, dll.
 }
