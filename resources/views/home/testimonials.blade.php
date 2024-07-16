@@ -77,9 +77,7 @@
       <div class="title-container">
         <h2 class="text-center fw-bold">Testimonial</h2>
       </div>
-      <p class="text-center mt-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem modi vero voluptas ea
-        molestias eum illo, ducimus eius quisquam repellendus accusamus rerum! Repeliendus enim incidunt assumenda
-        pariatur, quisquam evaniet numquam.</p>
+      <p class="text-center mt-4"></p>
       <div class="row mt-5">
         <div class="col-md-6 mt-4" data-aos="fade-right">
           <div class="card border-0 shadow shadow-sm">
@@ -89,9 +87,6 @@
               <small class="text-muted">CEO & Founder</small>
               <p class="fst-italic mt-3 fs-5">
                 <i class="fa fa-quote-left"></i>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod repellendus ipsam accusantium at
-                blanditiis sint, minus est molestiae voluptas eveniet id nam perspiciatis porro hic expedita debitis
-                maxime beatae. At!
                 <i class="fa fa-quote-right"></i>
               </p>
             </div>
@@ -104,10 +99,7 @@
               <strong class="d-block">Paul mandy</strong>
               <small class="text-muted">CEO & Founder</small>
               <p class="fst-italic mt-3 fs-5">
-                <i class="fa fa-quote-left"></i>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod repellendus ipsam accusantium at
-                blanditiis sint, minus est molestiae voluptas eveniet id nam perspiciatis porro hic expedita debitis
-                maxime beatae. At!
+                <i class="fa fa-quote-left"></i>                
                 <i class="fa fa-quote-right"></i>
               </p>
             </div>
@@ -120,10 +112,7 @@
               <strong class="d-block">Paul mandy</strong>
               <small class="text-muted">CEO & Founder</small>
               <p class="fst-italic mt-3 fs-5">
-                <i class="fa fa-quote-left"></i>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod repellendus ipsam accusantium at
-                blanditiis sint, minus est molestiae voluptas eveniet id nam perspiciatis porro hic expedita debitis
-                maxime beatae. At!
+                <i class="fa fa-quote-left"></i>                
                 <i class="fa fa-quote-right"></i>
               </p>
             </div>
@@ -136,10 +125,7 @@
               <strong class="d-block">Paul mandy</strong>
               <small class="text-muted">CEO & Founder</small>
               <p class="fst-italic mt-3 fs-5">
-                <i class="fa fa-quote-left"></i>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod repellendus ipsam accusantium at
-                blanditiis sint, minus est molestiae voluptas eveniet id nam perspiciatis porro hic expedita debitis
-                maxime beatae. At!
+                <i class="fa fa-quote-left"></i>                
                 <i class="fa fa-quote-right"></i>
               </p>
             </div>
@@ -237,7 +223,6 @@
           </div>
           <div class="col-md-3">
             <h4 class="fw-bold">Join Our Newsletter</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
               <div class="input-group">
                 <input type="text" class="form-control" placeholder="yourmail@example.com" />
                 <button class="btn btn-subscribe" type="button" id="inputGroupFileAddon04">
