@@ -176,19 +176,19 @@
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Home
+                                        Beranda
                                     </a>
                                 </li>
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        About Us
+                                        Tentang
                                     </a>
                                 </li>
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Services
+                                        Layanan Kami
                                     </a>
                                 </li>
                                 <li class="list-item">
@@ -200,7 +200,7 @@
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Contact
+                                        Kontak
                                     </a>
                                 </li>
                             </ul>

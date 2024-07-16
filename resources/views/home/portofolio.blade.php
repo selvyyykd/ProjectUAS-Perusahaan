@@ -76,7 +76,7 @@
     <div class="teams bg-light py-5">
         <div class="container">
             <div class="title-container">
-                <h2 class="text-center fw-bold">Portfolio</h2>
+                <h2 class="text-center fw-bold">Portofolio</h2>
             </div>
             <div class="row mt-4">
                 <div class="col-md-12 d-flex justify-content-center">
@@ -188,38 +188,37 @@
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Home
+                                        Beranda
                                     </a>
                                 </li>
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        About Us
+                                        Tentang
                                     </a>
                                 </li>
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Services
+                                        Layanan Kami
                                     </a>
                                 </li>
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Portfolio
+                                        Portofolio
                                     </a>
                                 </li>
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Contact
+                                        Kontak
                                     </a>
                                 </li>
                             </ul>
                     </div>
                     <div class="col-md-3">
-                        <h4 class="fw-bold">Join Our Newsletter</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <h4 class="fw-bold">Join Our Newsletter</h2>                            
                             <div class="input-group">
                                 <input type="text" class="form-control" placeholder="yourmail@example.com" />
                                 <button class="btn btn-subscribe" type="button" id="inputGroupFileAddon04">
