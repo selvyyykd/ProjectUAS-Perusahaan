@@ -19,7 +19,7 @@
 
     <title>Company</title>
 
-    <!-- navbar -->
+    <!-- navbar --->
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow shadow-sm fixed-top fy-3">
     <div class="container">
       <a class="navbar-brand fw-bold" href="#"><span class="primary">JualBeli </span>Rumah Impian</a>
