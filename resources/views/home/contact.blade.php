@@ -230,7 +230,6 @@
                     </div>
                     <div class="col-md-3">
                         <h4 class="fw-bold">Join Our Newsletter</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             <div class="input-group">
                                 <input type="text" class="form-control" placeholder="yourmail@example.com" />
                                 <button class="btn btn-subscribe" type="button" id="inputGroupFileAddon04">
