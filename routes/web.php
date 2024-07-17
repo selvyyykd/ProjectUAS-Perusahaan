@@ -33,12 +33,12 @@ Route::get('/dashboard', [DashboardController::class, 'index'])->middleware('aut
 
 // Dashboard
 Route::prefix('/admin')->middleware('auth')->group(function () {
-  
 
-//
+
+    //
     Route::resource('sliders', SliderController::class);
 
-//
+    //
     Route::resource('services', ServiceController::class);
     Route::resource('testimonials', TestimonialController::class);
     Route::resource('portofolios', PortofolioController::class);
@@ -51,8 +51,5 @@ Route::prefix('/admin')->middleware('auth')->group(function () {
 
 
 
-Route::get('/about', [AboutController::class, 'index'])->middleware('auth');
-
+    Route::get('/about', [AboutController::class, 'index'])->middleware('auth');
 });
-Route::get('/contact', [ContactController::class, 'index'])->middleware('auth');
-Route::put('/contact/{id}', [ContactController::class, 'update'])->middleware('auth');
