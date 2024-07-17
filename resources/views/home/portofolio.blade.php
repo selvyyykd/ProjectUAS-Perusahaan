@@ -51,6 +51,9 @@
 <li class="nav-item">
     <a class="nav-link fw-bolder" href="{{ url('contact') }}">Kontak</a>
 </li>
+<li class="nav-item">
+    <a class="nav-link fw-bolder" href="login">Login</a>
+  </li>
 
         </ul>
       </div>
@@ -153,7 +156,7 @@
                                 <li class="list-item">
                                     <a href="" class="text-decoration-none text-white">
                                         <i class="fa fa-chevron-right primary"></i>
-                                        Web Development
+                                        Web
                                     </a>
                                 </li>
                                 <li class="list-item">
@@ -215,6 +218,9 @@
                                         Kontak
                                     </a>
                                 </li>
+                                <li class="nav-item">
+                                    <a class="nav-link fw-bolder" href="login">Login</a>
+                                  </li>
                             </ul>
                     </div>
                     <div class="col-md-3">

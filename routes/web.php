@@ -56,4 +56,3 @@ Route::get('/about', [AboutController::class, 'index'])->middleware('auth');
 });
 Route::get('/contact', [ContactController::class, 'index'])->middleware('auth');
 Route::put('/contact/{id}', [ContactController::class, 'update'])->middleware('auth');
-
